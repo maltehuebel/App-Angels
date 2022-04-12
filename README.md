@@ -1,2 +1,2 @@
 # App-Angels
-Idee: https://maltehuebel.github.io/App-Angles/Ideenpitch_Präsentation.pdf
+Idee: https://maltehuebel.github.io/App-Angels/Ideenpitch_Präsentation.pdf
